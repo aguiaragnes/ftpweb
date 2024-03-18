@@ -5,5 +5,5 @@
   - [Trello](https://trello.com/b/hsRMsZs3/projeto-dw)
 
 - Contatos:
-  - [Linkedin](linkedin.com/in/agnesaguiar)
+  - [Linkedin](https://www.linkedin.com/in/agnesaguiar/)
   - [Github](https://github.com/aguiaragnes)
